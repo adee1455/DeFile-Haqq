@@ -8,7 +8,7 @@ const content = [
   {
     title: "Connect Your Wallet",
     description:
-      "Start by connecting your any ethereum wallet to DeFile to access the app. Make sure the wallet is connected to Sepolia Test Network and loaded up with some ETH. To learn how to do so ",
+      "Start by connecting your any ethereum based wallet to DeFile to access the app. Make sure the wallet is connected to HAQQ Testedge2 Network and loaded up with some ISLM. To get from faucet: ",
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
         <Image

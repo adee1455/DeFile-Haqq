@@ -15,11 +15,11 @@ const mainnet = {
 }
 
 const testnet = {
-  chainId: 11155111,
-  name: 'Sepolia',
-  currency: 'SepoliaETH',
-  explorerUrl: 'https://sepolia.etherscan.io/',
-  rpcUrl: 'https://eth-sepolia.g.alchemy.com/v2/UEi3OlYcSdlnavJoB9mQWf6f2VQGAeBf',
+  chainId: 54211,
+  name: 'HAQQ Testedge2',
+  currency: 'ISLM',
+  explorerUrl: 'https://explorer.testedge2.haqq.network',
+  rpcUrl: 'https://rpc.eth.testedge2.haqq.network',
 }
 
 // Metadata for your app
